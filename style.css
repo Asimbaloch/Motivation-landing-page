@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+
+.container {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+
+.left {
+    width: 40%;
+    height: 100%;
+    background-color: wheat;
+}
+
+.right {
+    width: 60%;
+    height: 100%;
+    background-color: black;
+}
+
+
+.right-top {
+    display: flex;
+    height: 50%;
+    width: 100%;
+    background-color: aqua;
+    
+}
+.rtop-left {
+    width: 50%;
+    height: 100%;
+    background-color: blueviolet;
+}
+
+.top-right {
+    width: 50%;
+    height: 100%;
+    background-color: blueviolet;
+}
