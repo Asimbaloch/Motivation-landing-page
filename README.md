@@ -25,7 +25,8 @@ A modern and responsive landing page built with HTML, CSS, and a focus on user e
 
 ![Screenshot_3-4-2024_112644_127 0 0 1](https://github.com/Asimbaloch/Motivation-landing-page/assets/85347127/ec6db9b0-4cc1-4b10-8618-9d8fa97e36a6)
 
-
+**Contact Us**
+contact us if you have any questions. asimseom@gmail.com
 **License:**
 
 MIT License 
